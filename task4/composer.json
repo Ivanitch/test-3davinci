@@ -1,0 +1,19 @@
+{
+    "name": "ivanitch/test-3davinci",
+    "description": "description",
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "php": "^7.4|^8.0",
+        "ext-PDO": "*"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
