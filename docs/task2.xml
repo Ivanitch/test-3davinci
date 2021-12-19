@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products Export_date="17.12.18 19.00">
+	<Product MfrCode="DU60Sh-5K-I-C" MfrName="Светодиодный светильник Диора Unit 60/7000 Ш1 7000лм 60Вт 5000K IP67 0,98PF 70Ra intellect консоль" Status="Z" Brand="Diora" Series="Diora Unit Ш" Group="" MfrCountry="Россия" Unit="796" OrderMultiplicity="" ETIMClass="EC000062" MfrDescription="Универсальный светильник модульного исполнения для внутреннего и наружного освещения. Групповая линза (является защитным стеклом) равномерно распределяет световой поток на большой площади. Являются аналогами светильников с лампами ДРЛ 125-1000 и ДНаТ 70-600" MfrChangeCode="" MfrCode2="00-00001435" MfrWarranty="" NetWeight="1,65" Barcode="4627145200964" TNVED="9405409909">
+		<Packages>
+			<Package Amount="1" Length="0,11" Width="0,205" Height="0,24" GrossWeight="1,85" PackageVolume="0,005412" PackageType="1" Barcode=""/>
+			<Package Amount="180" Length="0" Width="0" Height="0" GrossWeight="324" PackageVolume="0,97416" PackageType="3" Barcode=""/>
+		</Packages>
+		<Files>
+			<File Reference="/ProductFiles/00-00001435_Photo main.png" FileType="IMGMain" FileDate="23.10.2018 10:26:56"/>
+			<File Reference="/ProductFiles/00-00001435_IES.ies" FileType="FILE006" FileDate="25.10.2018 14:27:11"/>
+			<File Reference="/ProductFiles/00-00001435_KSS.png" FileType="FILE006" FileDate="25.10.2018 10:02:21"/>
+			<File Reference="/ProductFiles/00-00001435_Photo.png" FileType="IMG" FileDate="23.10.2018 10:26:56"/>
+			<File Reference="/ProductFiles/00-00001435_Photo 2.png" FileType="IMG" FileDate="23.10.2018 10:26:56"/>
+			<File Reference="/ProductFiles/00-00001435_Photo 3.png" FileType="IMG" FileDate="23.10.2018 10:26:56"/>
+			<File Reference="/ProductFiles/00-00001435_Photo 4.png" FileType="IMG" FileDate="23.10.2018 10:26:56"/>
+		</Files>
+	</Product>
+</Products>
